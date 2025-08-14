@@ -19,6 +19,6 @@
 １．コンピュータを構成する要素でもある論理回路
 　　AND回路、OR回路、NOT回路、、、、、、
   　これらを実際にシミュレータで体験しよう。
-   <a href="https://www.falstad.com/circuit/>"リンク</a>
+   <a href="https://www.falstad.com/circuit/">リンク</a>
 
 
