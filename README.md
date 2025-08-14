@@ -4,8 +4,8 @@
 
 
 <h2>数学</h2>
-1.高校入試で出題された数学をアルゴリズムで考える。
-<a href="https://y2020am.github.io/Entrance_Q5" target="_blank">リンク...</a>
+　1.高校入試で出題された数学をアルゴリズムで考える。
+<a href="https://y2020am.github.io/Entrance_Q5" target="_blank">リンク</a>
 
 
 <h2>アルゴリズム</h2>
@@ -16,7 +16,7 @@
    <a href="https://y2020am.github.io/Sorting_cards" target="_blank">リンク...</a>
 
 <h2>論理回路</h2>
-１．コンピュータを構成する要素でもある論理回路<br>
+　１．コンピュータを構成する要素でもある論理回路<br>
 　AND回路、OR回路、NOT回路、、、、、、<br>
 これらを実際にシミュレータで体験しよう。
 <a href="https://www.falstad.com/circuit/" target="_blank">リンク...</a>
