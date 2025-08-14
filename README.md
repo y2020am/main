@@ -1,11 +1,11 @@
 <h1>実習のページ</h1>
 
-　次のリンクからそれぞれ実際に体験してみよう。<p>
+次のリンクからそれぞれ実際に体験してみよう。<p>
 
 
 <h2>1.数学</h2>
 　1.高校入試で出題された数学をアルゴリズムで考える。
-<a href="https://y2020am.github.io/Entrance_Q5" target="_blank">リンク</a>
+<a href="https://y2020am.github.io/Entrance_Q5" target="_blank">リンク...</a>
 
 
 <h2>2.アルゴリズム</h2>
