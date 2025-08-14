@@ -3,7 +3,6 @@
 
 <h2>1.数学</h2>
 　1.高校入試で出題された数学をアルゴリズムで考える。
-<img width="501" height="460" alt="image" src="https://github.com/user-attachments/assets/cac27160-e4ae-4180-aa17-36be33a4d503" />
 <a href="https://y2020am.github.io/Entrance_Q5" target="_blank">リンク...</a>
 
 <h2>2.アルゴリズム</h2>
