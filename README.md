@@ -5,7 +5,7 @@
 
 <h2>数学</h2>
 1.高校入試で出題された数学をアルゴリズムで考える。
-<a href="https://y2020am.github.io/Entrance_Q5" target="_blank">リンク</a>
+<a href="https://y2020am.github.io/Entrance_Q5" target="_blank">リンク...</a>
 
 
 <h2>アルゴリズム</h2>
@@ -13,12 +13,12 @@
 　並べ替えの方法にはいくつかのアルゴリズムが存在する。<br>
 バブルソート、選択ソート、クイックソート,,,,,,<br>
 これらの方法を使って実際にカードで実演してみよう。
-   <a href="https://y2020am.github.io/Sorting_cards" target="_blank">リンク</a>
+   <a href="https://y2020am.github.io/Sorting_cards" target="_blank">リンク...</a>
 
 <h2>論理回路</h2>
 １．コンピュータを構成する要素でもある論理回路<br>
 　AND回路、OR回路、NOT回路、、、、、、<br>
 これらを実際にシミュレータで体験しよう。
-<a href="https://www.falstad.com/circuit/" target="_blank">リンク</a>
+<a href="https://www.falstad.com/circuit/" target="_blank">リンク...</a>
 
 
