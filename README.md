@@ -9,7 +9,7 @@
 <h3>2.１ 並べ替え</h3>
 　並べ替えの方法にはいくつかのアルゴリズムが存在する。<br>
 シミュレータを使ってカードをバブルソートで並べ替えてみよう<br>
-<img src="ArgorithmSimulator.png>
+<img src="ArgorithmSimulator.png">
 
 これらの方法を使って実際にカードで実演してみよう。
    <a href="https://y2020am.github.io/Sorting_cards" target="_blank">リンク...</a>
