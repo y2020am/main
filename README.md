@@ -10,7 +10,8 @@
 　並べ替えの方法にはいくつかのアルゴリズムが存在する。<br>
 シミュレータを使ってカードを実際に並べ替えてみよう<br>
 <img src="ArgorithmSimulator.png">
-<span><video src="bubbleSort_400x300.mp4"></span>span>
+<video src="bubbleSort_400x300.mp4" controls muted></video>
+
 
    
 
