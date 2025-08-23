@@ -8,11 +8,15 @@
 <h2>2.アルゴリズム</h2>
 <h3>2.１ 並べ替え</h3>
 　並べ替えの方法にはいくつかのアルゴリズムが存在する。<br>
-シミュレータを使ってカードをバブルソートで並べ替えてみよう<br>
+シミュレータを使ってカードを並べ替えてみよう<br>
 <img src="ArgorithmSimulator.png">
+<video width="439" height="276" controls>
+  <source src="bubbleSort_400x300.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+</video>
 
-これらの方法を使って実際にカードで実演してみよう。
-   <a href="https://y2020am.github.io/ArgorithmSimulator.png"></a>
+
+   
 
 <h2>3.論理回路</h2>
 　3.1 コンピュータを構成する要素でもある論理回路<br>
