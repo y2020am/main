@@ -7,11 +7,10 @@
 
 <h2>2.アルゴリズム</h2>
 <h3>2.１ 並べ替え</h3>
-　並べ替えの方法にはいくつかのアルゴリズムが存在する。<br>
-シミュレータを使ってカードを実際に並べ替えてみよう<br>
+　並べ替えの方法にはいくつかのアルゴリズムが存在する。シミュレータを使ってカードを実際に並べ替えてみよう<br>
 <img src="simulator.png">
 <span><video src="bubbleSort_400x300.mp4" controls muted></video></span>
-
+<a href="https://visualgo.net/en" target="_blank">リンク...</a>
 
    
 
