@@ -12,7 +12,7 @@
 <img src="ArgorithmSimulator.png">
 
 これらの方法を使って実際にカードで実演してみよう。
-   <a href="https://y2020am.github.io/Sorting_cards" target="_blank">リンク...</a>
+   <a href="https://y2020am.github.io/ArgorithmSimulator.png"></a>
 
 <h2>3.論理回路</h2>
 　3.1 コンピュータを構成する要素でもある論理回路<br>
