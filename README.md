@@ -12,7 +12,6 @@
 <img src="ArgorithmSimulator.png">
 <video width="439" height="276" controls>
   <source src="bubbleSort_400x300.mp4" type="video/mp4">
-  <source src="movie.ogg" type="video/ogg">
 </video>
 
 
