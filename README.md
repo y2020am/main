@@ -3,7 +3,7 @@
 
 <h2>1.数学</h2>
 　1.高校入試で出題された数学をアルゴリズムで解いてみよう。<br>
-<img src="/Entrance_Q5/Q5.png">
+<img src="/Entrance_Q5/Q5_all.png">
 <a href="https://y2020am.github.io/Entrance_Q5" target="_blank">リンク...</a>
 
 <h2>2.アルゴリズム</h2>
