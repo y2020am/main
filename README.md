@@ -8,9 +8,9 @@
 <h2>2.アルゴリズム</h2>
 <h3>2.１ 並べ替え</h3>
 　並べ替えの方法にはいくつかのアルゴリズムが存在する。<br>
-シミュレータを使ってカードを並べ替えてみよう<br>
+シミュレータを使ってカードを実際に並べ替えてみよう<br>
 <img src="ArgorithmSimulator.png">
-<span><video controls src="bubbleSort_400x300.mp4" muted="false"></video></span>span>
+<span><video src="bubbleSort_400x300.mp4"></span>span>
 
    
 
