@@ -14,7 +14,7 @@
 <a href="https://visualgo.net/en" target="_blank">リンク...</a><br><br>
 
 <h3>2.2 カードを使った体験</h3>
-<img width="400" hegiht="300" src="/Sorting_cards/Sorting_cards.png">
+<img width="400" hegiht="300" src="/Sorting_cards/SortingCards.png">
 <a href="/Sorting_cards/index.html" target="_blank">リンク...</a><br><br>
 
 
