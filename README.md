@@ -17,7 +17,7 @@
 <h3>2.2 カードを使った体験</h3>
 　ここでは実際にカードを使ってバブルソートの実践を行ってみよう。<br>
  まずは使い方を覚えよう。
- <object data="How_to_use_logic.pdf"  width="80%" height="80%"></object><br>
+ <object data="How_to_use_logic.pdf"  width="80%" height="80%">リンク...</object><br>
 <img src="/Sorting_cards/SortingCards.png" width="400" hegiht="300">
 <a href="/Sorting_cards/index.html" target="_blank">リンク...</a><br><br>
 
