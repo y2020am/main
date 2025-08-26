@@ -25,6 +25,8 @@
 <h2>3.論理回路</h2>
 <h3>3.1 コンピュータを構成する要素、論理回路</h3>
 　AND回路、OR回路、XOR回路、NOT回路......これらの素子を組み合わせ実際にシミュレータで体験しよう。<br>
+ 使い方はこちらのリンクから..
+<object data="How_to_use_logic.pdf" width="80%" height="80%">リンク...</object><br>
 <img src="logicSimulator.png" width="60%" height="60%">
 <a href="https://www.falstad.com/circuit/" target="_blank">リンク...</a><br><br>
 
