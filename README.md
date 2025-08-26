@@ -9,12 +9,13 @@
 
 <h2>2.アルゴリズム</h2>
 <h3>2.１ 並べ替えアルゴリズム</h3>
-　並べ替えの方法にはいくつかのアルゴリズムが存在し、その中でバブル・ソートという方法があります。この方法は並べ替えのアルゴリズムの中で最も基礎的な方法です。次のシミュレータを使ってカードの並べ替えを実際に体験してみよう。<br>
+　並べ替えの方法にはいくつかのアルゴリズムが存在し、その中でバブル・ソートという方法があります。この方法は並べ替えのアルゴリズムの中で最も基礎的な方法です。次のシミュレータを使ってバブル・ソートを理解しよう。<br>
 <img width="400" hegiht="300" src="simulator.png">
 <span><video width="400" height="300" src="bubbleSort_400x300.mp4" controls muted></video></span>
 <a href="https://visualgo.net/en" target="_blank">リンク...</a><br><br>
 
 <h3>2.2 カードを使った体験</h3>
+　ここでは実際にカードを使ってバブルソートの実践を行ってみよう。<br>
 <img width="400" hegiht="300" src="/Sorting_cards/SortingCards.png">
 <a href="/Sorting_cards/index.html" target="_blank">リンク...</a><br><br>
 
