@@ -1,11 +1,10 @@
 <h1>実習のページ</h1>
 <p>　次のリンクからそれぞれ実際に体験してみよう。</p>
 
-<h2>1.数学</h2>
-　高校入試で出題された図形の問題をアルゴリズムを使って解いてみよう。<br>
-この問題は、はじめに放物線と一次関数との間に２つの三角形(青線で囲まれた部分)を作成し、さらにｘ軸上の点を1点とした三角形(赤線で囲まれた部分)を作成する。このとき先に作成した２つの三角形の面積とあとに作成した三角形の面積を比較していくものである。<br>
-<img src="/Entrance_Q5/Q5_all.png">
-<a href="/Entrance_Q5/index.html" target="_blank">リンク...</a><br><br>
+<h2>1.プログラミング Python</h2>
+ Google Colaboを利用したプログラミングを体験しよう。<br>
+<img width="400" hegiht="300" src="GoogleColabo.png">
+<a href="https://colab.research.google.com/" target="_blank">リンク...</a><br><br>
 
 <h2>2.アルゴリズム</h2>
 <h3>2.１ 並べ替えアルゴリズム</h3>
@@ -28,4 +27,8 @@
 <img src="logicSimulator.png" width="60%" height="60%">
 <a href="https://www.falstad.com/circuit/" target="_blank">リンク...</a><br><br>
 
-
+<h2>4.数学</h2>
+　高校入試で出題された図形の問題をアルゴリズムを使って解いてみよう。<br>
+この問題は、はじめに放物線と一次関数との間に２つの三角形(青線で囲まれた部分)を作成し、さらにｘ軸上の点を1点とした三角形(赤線で囲まれた部分)を作成する。このとき先に作成した２つの三角形の面積とあとに作成した三角形の面積を比較していくものである。<br>
+<img src="/Entrance_Q5/Q5_all.png">
+<a href="/Entrance_Q5/index.html" target="_blank">リンク...</a><br><br>
